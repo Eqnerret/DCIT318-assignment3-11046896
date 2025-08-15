@@ -1,0 +1,5 @@
+Reiss Bonney (ID: 1001): Score = 85, Grade = A
+Oswald Owusu (ID: 1002): Score = 92, Grade = A
+James Tinkorang (ID: 1003): Score = 76, Grade = B
+Terrence Kedzi (ID: 1004): Score = 88, Grade = A
+Sean Kedzi (ID: 1005): Score = 95, Grade = A

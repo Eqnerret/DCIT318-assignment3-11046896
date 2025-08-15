@@ -1,0 +1,5 @@
+1001,Reiss Bonney,85
+1002,Oswald Owusu,92
+1003,James Tinkorang,76
+1004,Terrence Kedzi,88
+1005,Sean Kedzi,95
