@@ -114,4 +114,4 @@ class Program
         var app = new FinanceApp();
         app.Run();
     }
-}.
+}
